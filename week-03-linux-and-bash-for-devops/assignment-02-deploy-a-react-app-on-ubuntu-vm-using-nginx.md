@@ -22,7 +22,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 Add your screenshot here.
 
----
+![Screenshot 1](<screenshots/Screenshot 1  - Assignment 2.png>)
 
 # Task 2 — Setup Environment (Nginx)
 
@@ -36,7 +36,7 @@ Install Nginx, start the service, and confirm it is running.
 
 Add your screenshot here.
 
----
+![Screenshot 2](<screenshots/Screenshot 2 — Assignment 2.png>)
 
 # Task 3 — Clone React Application
 
@@ -50,7 +50,7 @@ Clone the project repository and verify the project files are present.
 
 Add your screenshot here.
 
----
+![screenshot 3](<screenshots/Screenshot 3 — Assignment 2.png>)
 
 # Task 4 — Modify Application (Personalization)
 
@@ -64,7 +64,7 @@ Update `App.js` with your full name and the current date.
 
 Add your screenshot here.
 
----
+![Screenshot 4](<screenshots/Screenshot 4 — Assignment 2.png>)
 
 # Task 5 — Build React Application
 
@@ -78,7 +78,7 @@ Install dependencies and generate the production build.
 
 Add your screenshot here.
 
----
+![Screenshot 5](<screenshots/Screenshot 5 —Assignment 2.png>)
 
 # Task 6 — Deploy React Build to Nginx Web Root
 
@@ -106,14 +106,14 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 Add your screenshot here.
 
----
+![Screenshots 7](<screenshots/Screenshot 7 — Assignment 2.png>)
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
 Add your screenshot here.
 
----
 
+![Screenshot 8](<screenshots/Screenshot 8 - Assignment 2.png>)
 # Task 8 — Test Deployment
 
 ## Goal
@@ -126,13 +126,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Add your screenshot here.
 
----
+![Screenshot 9](<screenshots/Screenshot 9 — Assignment 2.png>)
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
 Add your screenshot here.
 
----
+![Screenshot 10](<screenshots/Screenshot 10 —Assignment 2.png>)
 
 # LinkedIn Post (Required)
 
@@ -142,7 +142,11 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD:week-03-linux-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
+https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-reactjs-share-7482777424007589888-nHZQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
+=======
 `Add your URL here`
+>>>>>>> upstream/main:week-03-linux-and-bash-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
 
 ---
 
@@ -150,7 +154,7 @@ Paste your LinkedIn post URL here:
 
 Add your screenshot here.
 
----
+![Linkedin](<screenshots/Linkedin - assignment 2.png>)
 
 # Submission Instructions
 
@@ -192,6 +196,11 @@ It helps learners build strong DevOps foundations with hands-on experience.
 - 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
 - ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
+
+---
+
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---

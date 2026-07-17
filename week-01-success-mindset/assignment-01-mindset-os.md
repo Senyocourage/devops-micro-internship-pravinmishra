@@ -29,11 +29,11 @@ You will reuse this in later weeks. So do it properly once.
 * Must be your real belief (not copied from internet).
 * Minimum 50 words.
 
-**Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
+**Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?s
 
-## Answer
 
-Add your answer here...
+I believe that having a university degree alone does not guarantee success. Many people around me think that getting a degree is enough to secure a good job, but I believe practical skills, continuous learning, and discipline are just as important. That is why I am investing my time in learning DevOps and cloud computing. In today's world, employers value people who can solve real problems and adapt to new technologies, not just those with certificates.
+Notice, just a product designer is not euongh so I have to level up by becoming engineer
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Asking for help when you are stuck speeds up learning.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I faced challenges with coding or cloud labs, I asked mentors and classmates for guidance instead of struggling alone. Their explanations helped me solve problems faster and improved my understanding.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent practice produces better results than studying only when necessary.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started learning AWS and UX design, I practiced a little every day instead of waiting until exams or deadlines. Over time, I understood the concepts better, became more confident, and completed my projects more successfully. Where I get to know that consistent improve our knowledge about something which you have no idea off. Determine and consistent to replace giving up.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Mistakes are one of the fastest ways to learn.
 
 ### Evidence from my life
 
-Add your answer here...
+During my programming and cloud labs, I made several errors while configuring services. By fixing those mistakes and understanding why they happened, I became more confident and made fewer errors in future tasks.
 
 ---
 
@@ -133,9 +133,16 @@ Include this line:
 
 > **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
-## Your Article
 
-Add your answer here...
+My 2.0 Version: A Journey of Growth and Purpose
+A few years ago, Courage Kwaku Senyo was just another student trying to figure out his path in technology. Today, he has built a successful career as a Product Designer, Visual Assistance, Cloud and DevOps Engineer by staying consistent, learning every day, and never giving up when things became difficult.
+His journey was not always easy. There were moments when learning new technologies felt overwhelming, and balancing school, personal responsibilities, and technical training was challenging. Instead of quitting, he kept showing up. He practiced regularly, completed hands-on projects, and used every opportunity to improve his skills.
+Over the years, Courage earned professional certifications in AWS and DevOps and built a portfolio that reflected his practical experience. His GitHub profile became a collection of cloud projects, automation scripts, and CI/CD pipelines that demonstrated what he could do, not just what he had learned.
+He also shared his knowledge by writing simple technical articles and helping beginners who were starting their own cloud journey. Many students appreciated his willingness to explain difficult concepts in an easy-to-understand way because he remembered what it felt like to be a beginner himself.
+Professionally, Courage joined a company where he worked with development teams to automate deployments, manage cloud infrastructure, and improve system reliability. His ability to solve problems and work well with others earned him the trust of his teammates and opportunities to lead small projects.
+Outside work, he continued to support the tech community by mentoring students, participating in workshops, and encouraging young people to build practical skills instead of waiting for opportunities to come to them.
+Looking back, people often described Courage as someone who was not the smartest person in the room but one of the most consistent. His success came from discipline, continuous learning, and the courage to keep moving forward even when the journey was difficult.
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community: https://discord.pravinmishra.com/.
 
 ### Public Link
 
@@ -172,8 +179,14 @@ If Yes:
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
+Yes
 
-Add your answer here...
+
+
+**What emotion did you feel?**
+
+There was a time when I took a shortcut instead of doing the work properly. At first, I thought it wasn't a big deal, but afterward, I didn't feel good about it. I felt guilty because I knew I hadn't been honest with myself. I also felt anxious that I might be asked questions I couldn't answer since I hadn't really learned the material. Looking back, I realized that the shortcut only saved me a little time but cost me confidence. Since then, I've tried to do my work the right way, even if it takes more effort, because the satisfaction of earning my results honestly is worth it.
+
 
 ---
 
@@ -197,18 +210,20 @@ Choose books that improve:
 * career
 * leadership
 
+
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits – James Clear
+2. Deep Work – Cal Newport
+3. The 7 Habits of Highly Effective People  – Stephen R. Covey
+4. The Psychology of Money  – Morgan Housel
+5. The Lean Startup  – Eric Ries
+6. So Good They Can't Ignore You  – Cal Newport
+7. How to Win Friends and Influence People  – Dale Carnegie
+8. The Phoenix Project  – Gene Kim, Kevin Behr, and George Spafford
+9. The DevOps Handbook  – Gene Kim, Jez Humble, Patrick Debois, and John Willis
+10. The First 90 Days  – Michael D. Watkins
+
 
 ---
 
@@ -237,16 +252,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours each week
+* New technical skills learned
+* Hands-on projects completed
+* Certifications and course progress
+* Sleep hours and energy level
+* Exercise and physical activity
+* Time management
+* Monthly savings and spending
+* Networking and professional connections
+* Personal goals completed
 
 ---
 
@@ -268,11 +283,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+Yes
 
 Answer:
 
-Add your answer here...
+I wrote down my pending school work, DMI tasks, AWS learning goals, financial responsibilities, family commitments, project ideas, and personal goals. Writing everything down helped me feel more organized and less overwhelmed.
 
 ---
 
@@ -290,7 +305,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday – Thursday: 6:30 PM – 8:00 PM: DMI lessons, DevOps practice, or AWS labs.
+Friday: 6:30 PM – 7:30 PM: Review what I learned during the week and update my GitHub.
+Saturday: Attend DMI live sessions and complete assignments.
+Sunday: Weekly review, plan the next week, and rest.
 
 ---
 
@@ -298,11 +316,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday – Thursday: 6:30 PM – 8:00 PM
+Saturday: During the scheduled DMI live session and one additional hour afterward for practice.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 focused learning sessions per week.
 
 ---
 
@@ -316,7 +335,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone on Do Not Disturb during study time.
+* Avoid social media until I finish my daily learning session.
+* Study in a quiet place with only the resources I need.
+* Follow the 50-minute study, 10-minute break rule.
+* Complete my planned task before watching YouTube or entertainment videos.
 
 ---
 
@@ -324,15 +347,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I learn best when I follow a consistent routine instead of waiting until I feel motivated. Even one hour of focused learning each day makes a big difference.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time switching between tasks or checking my phone, which breaks my concentration and slows my progress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday at 6:30 PM, I will spend 90 minutes focused on DMI or AWS learning before checking social media or doing anything else.
 
 ### LinkedIn Post
 
@@ -344,8 +367,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 
+- Blog / Medium : https://medium.com/@courage43/building-better-systems-not-just-skills-e90d9e214c89
 
 ---
 

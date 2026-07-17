@@ -22,7 +22,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 Add your screenshot here.
 
----
+![Screenshot 0](<screenshots/Screenshot 0_assignment_4_Task 0.png>)
 
 # Task 1 — Get the Website Source Code
 
@@ -36,7 +36,7 @@ Download and extract the portfolio website template.
 
 Add your screenshot here.
 
----
+![Screenshot 1](<screenshots/Screenshot 1_assignment_4_task_1.png>)
 
 # Task 2 — Add Ownership Proof (Anti-Copy Change)
 
@@ -50,7 +50,7 @@ Update the website footer with your deployment details.
 
 Add your screenshot here.
 
----
+![creenshot 2](<screenshots/Screenshot 2_Assignment_4.png>)
 
 # Task 3 — Deploy Website via Nginx
 
@@ -64,13 +64,13 @@ Deploy the portfolio website to the Nginx web root.
 
 Add your screenshot here.
 
----
+![Screenshot 3](<screenshots/Screenshot 3_assignment 4.png>)
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
 Add your screenshot here.
 
----
+![Screenshot](<screenshots/Screenshot 4_assignment_4.png>)
 
 # Task 4 — Verify Website is Live
 
@@ -84,13 +84,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 Add your screenshot here.
 
----
+![Screenshot 5](<screenshots/Screenshot 5_assignment_4.png>)
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
 Add your screenshot here.
 
----
+![Screenshot 6](<screenshots/Screenshot 6_assignment 4.png>)
 
 # Task 5 — Mini Real DevOps Operational Check
 
@@ -104,13 +104,13 @@ Verify the deployed website and Nginx service are healthy.
 
 Add your screenshot here.
 
----
+![Screenshot 7](<screenshots/Screenshot 7_assignment 4.png>)
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
 Add your screenshot here.
 
----
+![Screenshot 8](<screenshots/Screenshot 8_assignment_4.png>)
 
 # LinkedIn Post (Mandatory)
 
@@ -128,7 +128,7 @@ Paste your LinkedIn post URL here:
 
 Add your screenshot here.
 
----
+![Linkedpost](screenshots/Linkedinpost_assignment_4.png)
 
 # Submission Instructions
 
