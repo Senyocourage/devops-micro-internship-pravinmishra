@@ -367,8 +367,7 @@ The final script uses variables to store values, arrays to manage multiple items
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-ugcPost-7483313174482702337-ioro/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
 #### Screenshot — Published LinkedIn post
 
