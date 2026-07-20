@@ -28,13 +28,14 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
+
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+In networking, a protocol is a standardized set of rules and formats that dictates how devices exchange data. It acts like a universal language, allowing computers, servers, and routers to communicate successfully regardless of differences in their underlying hardware, software, or manufacturer.
 
 ---
 
@@ -59,7 +60,13 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads’ website hosted in Finland can be accessed globally through networking technologies and internet protocols.
+When a user opens the website, the browser uses HTTP/HTTPS protocols to request webpages securely over the internet.
+HTTPS ensures encrypted and safe communication between users and the server.
+Every device connected to the internet has an IP Address, which helps identify the user’s system and the Finland-based server.
+Data is transferred using the TCP/IP protocol suite. TCP ensures reliable delivery of data packets, while IP routes them across networks worldwide.
+The internet uses Packet Switching, where data is divided into small packets and sent through different paths before being reassembled at the destination.
+This allows users from any country to quickly and reliably access the EpicReads online bookstore.
 
 ---
 
@@ -102,18 +109,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* HTML/CSS/JS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySql.
+* Postgresql
 
 ---
 
@@ -142,7 +149,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet’s phonebook. It converts easy-to-remember domain names such as epicreads.com into IP addresses like 52.172.142.222, which computers use to identify servers. Without DNS, users would need to remember IP addresses to access websites.
+
+To connect epicreads.com to the server IP 52.172.142.222, an A Record should be used. An A Record maps a domain name directly to an IPv4 address, allowing users worldwide to access the EpicReads website using the domain name instead of the numeric IP address.
 
 ---
 
@@ -218,7 +227,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 ```
 
 ---
@@ -227,7 +236,36 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+My DevOps Learning Journey: Tasks 1–5 
+I recently completed a hands-on DevOps assignment that taught me practical skills in networking, app architecture, and development tools. Here’s a breakdown:
+1️⃣ ChatGPT as a Learning Assistant
+ I used ChatGPT to understand networking concepts. For example, I asked: “What is a protocol in networking? Explain with a simple real-life example.”
+ The answer: Protocols are rules that devices follow to communicate like traffic rules for cars. TCP/IP ensures data is sent and received reliably, and HTTP/HTTPS allows secure browsing.
+2️⃣ Internet & Networking
+ I explained how users worldwide can access a website hosted in Finland (EpicReads):
+Packet Switching: Data is split into packets for efficient travel.
+
+IP Address: Identifies the server, like a home address.
+
+TCP/IP: Ensures packets arrive correctly.
+
+HTTP/HTTPS: Lets browsers request and load pages securely.
+
+3️⃣ Application Architecture
+ EpicReads has:
+Two-tier app: Frontend + Database
+
+Three-tier app: Frontend + Backend + Database
+ Common tools: Frontend → React, HTML | Backend → Node.js, Django | Database → MySQL, MongoDB
+
+4️⃣ DNS Explained
+ Domain epicreads.com needs an A record to point to server IP 52.172.142.222. DNS acts like the internet’s phonebook, translating domain names into IP addresses.
+
+5️⃣ VS Code Setup
+ Installed VS Code, explored the terminal (pwd, ls), and customized my theme. Using VS Code makes coding and DevOps work smoother.
+💡 Lesson learned: Determination is key, but having the right resources, tools, and guidance makes all the difference in building skills.
+P.S. This post is part of the FREE DevOps Micro Internship Cohort by Pravin Mishra. Start your DevOps journey for free via his YouTube playlist!
+hashtag#DevOps hashtag#Networking hashtag#VSCode hashtag#LearningJourney hashtag#AppArchitecture hashtag#Mentorship hashtag#Growth
 
 ---
 
@@ -235,19 +273,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found easy the topics about internet, apllication stack and architecture as I already have some exposure on it.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Nothing was difficult as of week 0.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+My schedule to distrbute my time to all the important tasks.
 
 ---
 
