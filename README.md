@@ -24,7 +24,7 @@
 
 ## About the Program
 
-**DevOps Micro Internship with Agentic AI** is a 14-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 26K+ LinkedIn followers.
+**DevOps Micro Internship with Agentic AI** is a 14-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 20K+ LinkedIn followers.
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
@@ -130,7 +130,8 @@ Week 03 → Linux & Bash for DevOps
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
+| https://medium.com/@courage43/my-first-steps-into-devops-understanding-networking-architecture-and-tools-59d3961c9cd6?sharedUserId=courage43 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4| https://medium.com/@courage43/building-better-systems-not-just-skills-e90d9e214c89|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | — | — |

@@ -1196,7 +1196,7 @@ Connecting with upstream allows you to bring those updates into your local repos
 Run:
 
 ```bash
-git remote add upstream https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra.git
+git remote add upstream https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra.gitls
 ```
 
 ---
