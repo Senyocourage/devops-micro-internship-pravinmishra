@@ -20,9 +20,9 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
-
 ![Screenshot 0](<screenshots/Screenshot 0_assignment_4_Task 0.png>)
+
+
 
 # Task 1 — Get the Website Source Code
 
@@ -33,8 +33,6 @@ Download and extract the portfolio website template.
 ### Evidence
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
-
-Add your screenshot here.
 
 ![Screenshot 1](<screenshots/Screenshot 1_assignment_4_task_1.png>)
 
@@ -48,8 +46,6 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
-
 ![creenshot 2](<screenshots/Screenshot 2_Assignment_4.png>)
 
 # Task 3 — Deploy Website via Nginx
@@ -62,15 +58,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
-
 ![Screenshot 3](<screenshots/Screenshot 3_assignment 4.png>)
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 4_assignment_4.png>)
+
+
 
 # Task 4 — Verify Website is Live
 
@@ -82,15 +76,15 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
-
 ![Screenshot 5](<screenshots/Screenshot 5_assignment_4.png>)
+
+
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
-
 ![Screenshot 6](<screenshots/Screenshot 6_assignment 4.png>)
+
+
 
 # Task 5 — Mini Real DevOps Operational Check
 
@@ -102,15 +96,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
-
 ![Screenshot 7](<screenshots/Screenshot 7_assignment 4.png>)
+
+
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
-
 ![Screenshot 8](<screenshots/Screenshot 8_assignment_4.png>)
+
+
 
 # LinkedIn Post (Mandatory)
 
@@ -118,17 +112,17 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-nginx-ugcPost-7483254231890841600-warn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-nginx-ugcPost-7483254231890841600-warn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
-
 ![Linkedpost](screenshots/Linkedinpost_assignment_4.png)
+
+
 
 # Submission Instructions
 

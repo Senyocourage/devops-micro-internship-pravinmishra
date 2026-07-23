@@ -130,8 +130,7 @@ Week 03 → Linux & Bash for DevOps
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
-| https://medium.com/@courage43/my-first-steps-into-devops-understanding-networking-architecture-and-tools-59d3961c9cd6?sharedUserId=courage43 |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/my-first-steps-into-devops-understanding-networking-architecture-and-tools-59d3961c9cd6?sharedUserId=courage43 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4| https://medium.com/@courage43/building-better-systems-not-just-skills-e90d9e214c89|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | — | — |

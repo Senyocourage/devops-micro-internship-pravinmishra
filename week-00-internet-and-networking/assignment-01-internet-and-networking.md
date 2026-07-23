@@ -224,7 +224,7 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here: https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
 ```text
 https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4

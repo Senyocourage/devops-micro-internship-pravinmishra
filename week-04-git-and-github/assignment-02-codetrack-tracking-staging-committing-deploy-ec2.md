@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+![screenshoot](screenshots/assignment2/task1/Screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+![screenshot2](screenshots/assignment2/task1/Screenshot2.png)
 
 ---
 
@@ -40,7 +40,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+![scrrenshot3](screenshots/assignment2/task2/Screenshot4.png)
 
 ---
 
@@ -54,7 +54,7 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+![screenshot4](screenshots/assignment2/task3/Screenshot4.png)
 
 ---
 
@@ -68,13 +68,13 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+![screenshot](screenshots/assignment2/task4/Screenshot5.png)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+![screenshot](screenshots/assignment2/task4/Screenshot6.png)
 
 ---
 
@@ -88,13 +88,13 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![screenshot](screenshots/assignment2/task5/Screenshot7.png)
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+![screenshoot](screenshots/assignment2/task5/Screenshot8.png)
 
 ---
 
@@ -108,25 +108,25 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+![screenshot](<screenshots/assignment2/task6/Screenshot9.png>)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+![screenshot](<screenshots/assignment2/task6/Screenshot10 .png>)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+![screenshot](screenshots/assignment2/task6/Screenshot11.png)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+![screenshot](screenshots/assignment2/task6/Screenshot12.png)
 
 ---
 
@@ -140,19 +140,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment2/task7/Screenshot13.png)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment2/task7/Screenshot14.png)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![screenshoot](screenshots/assignment2/task7/Screenshot15.png)
 
 ---
 
@@ -162,15 +162,15 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-git-aws-ugcPost-7485245559440658434-unoe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-git-aws-ugcPost-7485245559440658434-unoe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+![LinkedIn](<screenshots/assignment2/task7/LinkedIn post.png>)
 
 ---
 

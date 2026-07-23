@@ -20,8 +20,8 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
 ![Screenshot 1](<screenshots/Assignment 5/Task one/Screenshot 1 _assignment_5_task_1.png>)
+
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
 ![Evidence](<screenshots/Assignment 5/Task one/Screenshot 2_assignment_5_task_1 showing the scripts directory.png>)
@@ -105,21 +105,17 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
-
 A variable in Bash is a named container used to store data such as text, numbers, or command outputs. It allows scripts to store and reuse values during execution.
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
-
 In Bash, spaces around the = sign are not allowed because Bash interprets the command differently. A space makes Bash think the variable name is a command and the value is an argument.
+
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
-
 You access the value of a Bash variable by adding a $ symbol before the variable name.
+
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
 
@@ -155,13 +151,9 @@ Arrays are useful because they allow scripts to store and manage multiple relate
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
-
 "${tools[@]}" is used to access all elements in the Bash array named tools. The @ symbol represents all items in the array, and the quotes preserve each item as a separate value, even if it contains spaces.
 
 **4. What is the purpose of the `for` loop in this script?**
-
-Add your answer here.
 
 The for loop is used to repeat a set of commands for each item in a list or array. In this script, it goes through each value in the tools array and performs an action on each tool individually.
 
@@ -193,25 +185,21 @@ A loop is a programming structure that allows a set of commands to be executed r
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
-
 We use loops in Bash scripting to automate repetitive tasks, reduce the amount of code we write, and efficiently process multiple files, commands, or data items without running each command manually.
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
-
 The loop ran 5 times in the script (assuming the script was configured to repeat the command from 1 to 5).
 
 **4. What would you change if you wanted the loop to run 10 times?**
-
-Add your answer here.
 
 I would change the loop condition or range from 5 to 10.
 for i in {1..10}
 do
     echo "Run number: $i"
 done
+
+
 
 # Task 6 — Files & Conditionals: File Validation Script
 
@@ -289,25 +277,19 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
-
 The if-else statement is used to make decisions in a Bash script. It allows the script to execute different commands depending on whether a condition is true or false.
 
-**2. What does `-ge` mean?**
 
-Add your answer here.
+**2. What does `-ge` mean?**
 
 -ge means greater than or equal to. It is used to compare two integer values in Bash.
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
-
 Testing conditions with different values helps ensure the script works correctly in all scenarios. It verifies that both the true and false branches of the condition behave as expected.
 
-**4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+**4. How can conditionals help in automation scripts?**
 
 Conditionals help automation scripts make decisions based on different situations, such as checking if a file exists, verifying user input, or handling errors. This makes scripts more flexible, reliable, and capable of responding to different conditions automatically.
 
@@ -337,27 +319,23 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
-
 A function in Bash is a reusable block of code that performs a specific task. It can be called multiple times within a script, which helps avoid repeating the same code.
 
 **2. Why are functions useful in scripts?**
-
-Add your answer here.
 
 Functions make scripts easier to read, maintain, and reuse. They reduce code duplication, organize related commands into logical sections, and simplify troubleshooting.
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
-
 The script includes functions to perform different tasks, such as displaying messages, checking files or directories, and organizing the script into reusable sections. (Replace this with the actual function names from your script if they are different.)
+
+
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
-
 The final script uses variables to store values, arrays to manage multiple items, loops to repeat tasks, conditionals (if-else) to make decisions, file checks to verify whether files or directories exist, and functions to organize related commands into reusable blocks. Together, these features make the script more efficient, organized, and easier to maintain.
+
+
 
 # LinkedIn Post (Required)
 
@@ -365,9 +343,9 @@ The final script uses variables to store values, arrays to manage multiple items
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-ugcPost-7483313174482702337-ioro/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
+
+
 
 #### Screenshot — Published LinkedIn post
 

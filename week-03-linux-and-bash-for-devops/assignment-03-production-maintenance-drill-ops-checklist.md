@@ -20,27 +20,22 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 1_Task 1_Assignment 3.png>)
 
 #### Screenshot 2 — Output of `ip a`
-
-Add your screenshot here.
-
 ![Screenshoot 2](<screenshots/Screenshot 2 _Task 1_Assignment 3.png>)
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
-
 ![Screenshot 3](<screenshots/Screenshot 3_Task 1_Assignment 3.png>)
+
+
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
-
 ![Screenshot 4](<screenshots/Screenshot 4_Task 1_Assignment 3.png>)
+
+
 ### Notes
 
 Answer the following in your own words:
@@ -73,21 +68,20 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/Screenshot 1_Assignment 3_ Task 2.png>)
+
+
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
 
 ![Screenshot](<screenshots/Screenshot 2_Assignment 3_ Task 2.png>)
 
+
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 3_Assignment 3_ Task 2.png>)
+
 
 ### Notes
 
@@ -115,21 +109,20 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/Screenshot 1 _Assignment_3 Task 3.png>)
+
+
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 2_Assignment_3 Task 3.png>)
+
+
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
-
 ![Screenshot 3](<screenshots/Screenshot 3_Assignment_3 Task 3.png>)
+
 
 ### Notes
 
@@ -166,27 +159,27 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 1_Assignment_3_Task_4.png>)
+
+
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 2_Assignment_3_Task_4.png>)
+
+
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
-
 ![Screenshot](<screenshots/Screenshot 3_Assignment_3_Task_4.png>)
+
+
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
-
 ![Screenshot 4](<screenshots/Screenshot 4_Assignment_3_Task_4.png>)
+
+
 
 ### Notes
 
@@ -213,21 +206,21 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/ Screenshot 1_Assignment 3_Task_5.png>)
+
+
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
-
 ![Screenshot 2](<screenshots/Screenshot 2 _Assignment 3_Task_5.png>)
+
+
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
-
 ![Screenshot 3](<screenshots/Screenshot 3_Assignment 3_Task_5.png>)
+
+
 
 ### Notes
 
@@ -249,21 +242,21 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/Screenshot 1_Assignment_3_Task 6.png>)
+
+
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
-
 ![Screenshot 2](<screenshots/Screenshot 2_Assignment_3_Task 6.png>)
+
+
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
-
 ![Screenshot 3](<screenshots/Screenshot 3_Assignment_3_Task 6.png>)
+
+
 
 ### Notes
 
@@ -301,15 +294,15 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/Screenshot 1_Assignment_3_Task_7.png>)
+
+
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
-
 ![Screenshot 2](<screenshots/Screenshot 2_Assignment_3_Task_7.png>)
+
+
 
 ### Notes
 
@@ -391,17 +384,16 @@ Cloud resources should be stopped or terminated when they are no longer needed t
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-aws-share-7483230108296642560-fs3y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-aws-share-7483230108296642560-fs3y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
-
 ![Linkedin Post](<screenshots/Screenshot 1_assignment_3_Linkedin post.png>)
+
 
 # Submission Instructions
 

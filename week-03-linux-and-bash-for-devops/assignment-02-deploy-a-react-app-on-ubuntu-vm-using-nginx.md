@@ -20,9 +20,9 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
-
 ![Screenshot 1](<screenshots/Screenshot 1  - Assignment 2.png>)
+
+
 
 # Task 2 — Setup Environment (Nginx)
 
@@ -34,9 +34,8 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
-
 ![Screenshot 2](<screenshots/Screenshot 2 — Assignment 2.png>)
+
 
 # Task 3 — Clone React Application
 
@@ -48,9 +47,9 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
-
 ![screenshot 3](<screenshots/Screenshot 3 — Assignment 2.png>)
+
+
 
 # Task 4 — Modify Application (Personalization)
 
@@ -62,9 +61,9 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
-
 ![Screenshot 4](<screenshots/Screenshot 4 — Assignment 2.png>)
+
+
 
 # Task 5 — Build React Application
 
@@ -76,9 +75,9 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
-
 ![Screenshot 5](<screenshots/Screenshot 5 —Assignment 2.png>)
+
+
 
 # Task 6 — Deploy React Build to Nginx Web Root
 
@@ -104,16 +103,16 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-Add your screenshot here.
-
 ![Screenshots 7](<screenshots/Screenshot 7 — Assignment 2.png>)
+
+
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
-
-
 ![Screenshot 8](<screenshots/Screenshot 8 - Assignment 2.png>)
+
+
+
 # Task 8 — Test Deployment
 
 ## Goal
@@ -124,15 +123,15 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
-
 ![Screenshot 9](<screenshots/Screenshot 9 — Assignment 2.png>)
+
+
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
-
 ![Screenshot 10](<screenshots/Screenshot 10 —Assignment 2.png>)
+
+
 
 # LinkedIn Post (Required)
 
@@ -140,21 +139,21 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-reactjs-share-7482777424007589888-nHZQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
 <<<<<<< HEAD:week-03-linux-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
-https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-reactjs-share-7482777424007589888-nHZQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
+
 =======
-`Add your URL here`
->>>>>>> upstream/main:week-03-linux-and-bash-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-cloudcomputing-reactjs-share-7482777424007589888-nHZQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
-
 ![Linkedin](<screenshots/Linkedin - assignment 2.png>)
+
+
+
 
 # Submission Instructions
 
@@ -206,3 +205,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 ---
 
 *This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+[def]: <screenshots/Screenshot 2 — Assignment 2.png>

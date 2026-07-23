@@ -359,9 +359,9 @@ Every weekday at 6:30 PM, I will spend 90 minutes focused on DMI or AWS learning
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 `
 
 ---
 
