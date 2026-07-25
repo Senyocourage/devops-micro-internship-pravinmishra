@@ -134,7 +134,7 @@ Week 03 → Linux & Bash for DevOps
 | 01 | Success Mindset | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4| https://medium.com/@courage43/building-better-systems-not-just-skills-e90d9e214c89|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-share-7486689696970883072-910J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/devops-journey-learning-linux-bash-automation-and-ai-assisted-operations-8e20f6044293 |
-| 04 | Git & GitHub | ✅ Completed  | ✅ Solved  | https://www.linkedin.com/posts/senyocouragekwaku_devops-git-github-share-7486686927719608320-XuDg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/building-my-devops-foundation-git-github-collaboration-and-ai-assisted-safety-workflows-5f7b255c5a32|
+| 04 | Git & GitHub | ✅ Completed  | ✅ Solved  | https://www.linkedin.com/posts/senyocouragekwaku_devops-git-github-share-7486686927719608320-XuDg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/building-my-devops-foundation-git-github-collaboration-and-ai-assisted-safety-workflows-5f7b255c5a32?sharedUserId=courage43|
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
