@@ -80,9 +80,9 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 ## GitHub Profile URL
 
-Paste your GitHub profile URL here:
+https://github.com/Senyocourage
 
-`Add your URL here`
+`https://github.com/Senyocourage`
 
 ---
 

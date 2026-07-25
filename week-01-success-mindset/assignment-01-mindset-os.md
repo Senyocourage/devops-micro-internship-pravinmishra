@@ -146,9 +146,9 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### Public Link
 
-Paste your link here:
+https://medium.com/@courage43/my-2-0-version-a-journey-of-growth-and-purpose-323e565b113f?sharedUserId=courage43
 
-`Add your URL here`
+`https://medium.com/@courage43/my-2-0-version-a-journey-of-growth-and-purpose-323e565b113f?sharedUserId=courage43`
 
 ---
 
@@ -213,11 +213,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Atomic Habits – James Clear
+1. Atomic Habits – James Clear 
+
+![book](<screenshots/Atomic Habits – James Clear.jpeg>)
+
 2. Deep Work – Cal Newport
+
+![book](<screenshots/Deep Work – Cal Newport.jpeg>)
+
 3. The 7 Habits of Highly Effective People  – Stephen R. Covey
+
+![book](<screenshots/The 7 Habits of Highly Effective People – Stephen R. Covey.jpeg>)
+
 4. The Psychology of Money  – Morgan Housel
+
+![book](<screenshots/The Psychology of Money  – Morgan Housel.jpeg>)
+
 5. The Lean Startup  – Eric Ries
+
+![book](<screenshots/The Lean Startup  – Eric Ries.jpeg>)
+
 6. So Good They Can't Ignore You  – Cal Newport
 7. How to Win Friends and Influence People  – Dale Carnegie
 8. The Phoenix Project  – Gene Kim, Kevin Behr, and George Spafford

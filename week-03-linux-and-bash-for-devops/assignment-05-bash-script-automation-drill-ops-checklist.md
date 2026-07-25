@@ -67,22 +67,20 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
-
 #!/bin/bash is called a shebang. It tells the operating system to use the Bash shell to run the script, ensuring the commands are executed correctly.
+
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
-
 We use chmod +x to make the script executable. Without this permission, the operating system will not allow the script to run directly.
+
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
-
 ./script.sh runs the script as an executable file and requires execute permission (chmod +x). It also uses the interpreter specified in the shebang (#!/bin/bash).
 bash script.sh runs the script directly with the Bash interpreter, so it does not require execute permission.
+
+
 
 # Task 3 — Variables: User Information Script
 
@@ -139,13 +137,11 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
 
 An array in Bash is a variable that can store multiple values under a single name. Each value in the array is stored at a specific index position.
 
-**2. Why are arrays useful in scripts?**
 
-Add your answer here.
+**2. Why are arrays useful in scripts?**
 
 Arrays are useful because they allow scripts to store and manage multiple related values easily. They make it easier to process lists of items, such as filenames, usernames, servers, or software tools, using loops and other commands.
 
@@ -179,9 +175,8 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
-
 A loop is a programming structure that allows a set of commands to be executed repeatedly until a specific condition is met or for a defined number of times.
+
 
 **2. Why do we use loops in Bash scripting?**
 
@@ -226,25 +221,18 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
-
 The -d test checks whether a specified path exists and is a directory.
 
-**2. What does `-f` check in Bash?**
 
-Add your answer here.
+**2. What does `-f` check in Bash?**
 
 The -f test checks whether a specified path exists and is a regular file.
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
-
 Storing file and directory paths in variables makes scripts easier to read, maintain, and update. If the path changes, you only need to update the variable instead of changing it throughout the entire script.
 
 **4. What happens if the file does not exist?**
-
-Add your answer here.
 
 If the file does not exist, the -f test returns false, and the script executes the else block (if one is provided). This allows the script to handle the missing file gracefully, such as by displaying an error message or taking another action.
 

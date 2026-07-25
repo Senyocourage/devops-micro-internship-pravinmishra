@@ -69,8 +69,6 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
-
 Project-specific operational rules help Claude understand how the project should be managed. They provide clear instructions and boundaries, allowing Claude to give accurate guidance while following the project's requirements and best practices.
 
 **2. Why is the human required to execute the recovery command?**
@@ -404,12 +402,12 @@ I did not make any automatic changes without approval. The issue was reviewed fi
 
 https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-share-7483885542057832448-W7ap/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-share-7483885542057832448-W7ap/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot](screenshots/Linkedin.png)
 
 ---
 
