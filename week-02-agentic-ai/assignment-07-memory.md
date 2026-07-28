@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment7/Screenshot1.png)
 
 ---
 
@@ -34,13 +34,15 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![Screenshoot](screenshots/assignment7/Screenshot2.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment7/Screenshot3.png)
+
+![Screenshot](screenshots/assignment7/Screenshot3.1.png)
 
 ---
 
@@ -54,7 +56,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+![screenshot](screenshots/assignment7/Screenshot4.png)
 
 ---
 
@@ -68,13 +70,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment7/Screenshot5.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment7/Screenshot6.png)
 
 ---
 
@@ -89,17 +91,17 @@ Add your screenshot here.
 
 ## Linkedin Post Link
 
-Paste your Linkedin post link here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-agenticai-claudecode-share-7487787836113547266-72sS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-agenticai-claudecode-share-7487787836113547266-72sS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/Senyocourage/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
-`Add your URL here`
+`https://github.com/Senyocourage/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 

@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code 
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
 Week 03 → Linux & Bash for DevOps 
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
@@ -132,7 +132,7 @@ Week 03 → Linux & Bash for DevOps
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_devops-networking-vscode-activity-7438865093800550400-DDxo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/my-first-steps-into-devops-understanding-networking-architecture-and-tools-59d3961c9cd6?sharedUserId=courage43 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/senyocouragekwaku_building-better-systems-not-just-skills-share-7478068012730871809-jQwh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4| https://medium.com/@courage43/building-better-systems-not-just-skills-e90d9e214c89|
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/senyocouragekwaku_dmibypravinmishra-agenticai-claudecode-share-7487850999471194113-74C7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4| https://medium.com/@courage43/my-experience-exploring-agentic-ai-in-devops-building-smarter-engineering-workflows-c4135d4ea483?sharedUserId=courage43 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/senyocouragekwaku_devops-linux-bash-share-7486689696970883072-910J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/devops-journey-learning-linux-bash-automation-and-ai-assisted-operations-8e20f6044293 |
 | 04 | Git & GitHub | ✅ Completed  | ✅ Solved  | https://www.linkedin.com/posts/senyocouragekwaku_devops-git-github-share-7486686927719608320-XuDg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4 | https://medium.com/@courage43/building-my-devops-foundation-git-github-collaboration-and-ai-assisted-safety-workflows-5f7b255c5a32?sharedUserId=courage43|
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

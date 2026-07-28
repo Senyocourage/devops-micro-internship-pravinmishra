@@ -46,15 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-
+![Blog](screenshots/assignment8/Blog.png)
 ---
 
 ### Submission Field
 
-Blog Link:
+https://medium.com/@courage43/my-experience-exploring-agentic-ai-in-devops-building-smarter-engineering-workflows-c4135d4ea483
 
-`Add your URL here`
+`https://medium.com/@courage43/my-experience-exploring-agentic-ai-in-devops-building-smarter-engineering-workflows-c4135d4ea483`
 
 ---
 
@@ -92,23 +91,135 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment8/LinkedIn.png)
 
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
+Exploring the Future of DevOps with Agentic AI
+
+ 
+
+Over the past few weeks, I have been exploring how Artificial Intelligence can work together with DevOps practices to improve automation, productivity, and decision-making.
+
+ 
+
+This learning journey has been an exciting experience because I moved beyond just using AI for simple questions and started understanding how AI agents can become part of real engineering workflows.
+
+ 
+
+Some of the key things I explored include:
+
+ 
+
+🔹 Setting up and working with Claude Code and understanding how AI agents gather information, take action, and verify results.
+
+ 
+
+🔹 Teaching AI about a project using CLAUDE.md, allowing it to understand project rules, structure, and development preferences.
+
+ 
+
+🔹 Creating AI-powered workflows using Claude Skills to automate infrastructure tasks with Terraform.
+
+ 
+
+🔹 Working with specialized AI agents for different responsibilities such as security reviews, cost optimization, and infrastructure development.
+
+ 
+
+🔹 Connecting AI with external platforms using Model Context Protocol (MCP) to securely interact with GitHub data.
+
+ 
+
+🔹 Building safety controls around AI actions using permissions, hooks, and validation checks to ensure responsible automation.
+
+ 
+
+One of the biggest lessons I have learned is that the future of DevOps is not only about writing scripts and managing infrastructure. It is also about learning how to collaborate effectively with intelligent tools to build faster, safer, and more reliable systems.
+
+ 
+
+A big thank you to @nullPravin Mishra for creating such a practical learning environment and sharing valuable knowledge throughout this journey.
+
+ 
+
+Special appreciation to our Lead Co-Mentor @nullAnjana Muthunayake, and our amazing Group Co-Mentors @nullTanisha Borana, and @nullAnuradha Iyer for your guidance, support, and encouragement.
+
+ 
+
+I am excited to continue growing my skills in DevOps, Cloud Computing, Infrastructure as Code, and Agentic AI. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://lnkd.in/dXR4VXrz). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+ #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ```
-Paste your LinkedIn post content here
+Exploring the Future of DevOps with Agentic AI
+
+ 
+
+Over the past few weeks, I have been exploring how Artificial Intelligence can work together with DevOps practices to improve automation, productivity, and decision-making.
+
+ 
+
+This learning journey has been an exciting experience because I moved beyond just using AI for simple questions and started understanding how AI agents can become part of real engineering workflows.
+
+ 
+
+Some of the key things I explored include:
+
+ 
+
+🔹 Setting up and working with Claude Code and understanding how AI agents gather information, take action, and verify results.
+
+ 
+
+🔹 Teaching AI about a project using CLAUDE.md, allowing it to understand project rules, structure, and development preferences.
+
+ 
+
+🔹 Creating AI-powered workflows using Claude Skills to automate infrastructure tasks with Terraform.
+
+ 
+
+🔹 Working with specialized AI agents for different responsibilities such as security reviews, cost optimization, and infrastructure development.
+
+ 
+
+🔹 Connecting AI with external platforms using Model Context Protocol (MCP) to securely interact with GitHub data.
+
+ 
+
+🔹 Building safety controls around AI actions using permissions, hooks, and validation checks to ensure responsible automation.
+
+ 
+
+One of the biggest lessons I have learned is that the future of DevOps is not only about writing scripts and managing infrastructure. It is also about learning how to collaborate effectively with intelligent tools to build faster, safer, and more reliable systems.
+
+ 
+
+A big thank you to @nullPravin Mishra for creating such a practical learning environment and sharing valuable knowledge throughout this journey.
+
+ 
+
+Special appreciation to our Lead Co-Mentor @nullAnjana Muthunayake, and our amazing Group Co-Mentors @nullTanisha Borana, and @nullAnuradha Iyer for your guidance, support, and encouragement.
+
+ 
+
+I am excited to continue growing my skills in DevOps, Cloud Computing, Infrastructure as Code, and Agentic AI. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://lnkd.in/dXR4VXrz). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+ #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_dmibypravinmishra-agenticai-claudecode-share-7487850999471194113-74C7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
