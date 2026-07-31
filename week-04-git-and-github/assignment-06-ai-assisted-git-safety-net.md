@@ -181,7 +181,7 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake AWS access key that triggered the pre-commit hook and deleted the debug statement that exposed it. After staging the updated file, I committed the changes again. Since the secret pattern and debug statement were no longer present, the pre-commit hook passed successfully and the commit was completed.
 
 ---
 
