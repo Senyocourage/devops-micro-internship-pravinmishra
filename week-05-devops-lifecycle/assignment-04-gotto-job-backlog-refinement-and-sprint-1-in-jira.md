@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot1.png)
 
 ---
 
@@ -42,7 +42,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![screenshot](screenshots/assignment4/Screenshot2.png)
 
 ---
 
@@ -56,7 +56,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot3.png)
 
 ---
 
@@ -70,13 +70,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot5.png)
 
 ---
 
@@ -90,7 +90,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot6.png)
 
 ---
 
@@ -98,7 +98,38 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+### Story Point Estimates
+
+**S1 – Hero Tagline (1 point):**
+This is a small task because it only requires changing one heading on the page, with no additional functionality involved.
+
+**S2 – Button Colour (1 point):**
+This requires a simple CSS change to update the button colour. Although it affects multiple buttons, the change is straightforward, so it is estimated at 1 point.
+
+**S3 – Job Card Typography (2 points):**
+This involves adjusting the font size and font weight of the job cards and checking that the changes remain visually correct across different screen sizes. Therefore, it is estimated at 2 points.
+
+**S4 – REMOTE Badge (2 points):**
+This requires adding a new REMOTE badge and ensuring that it appears only for remote job listings. Since it involves some conditional display logic, it is estimated at 2 points.
+
+**S5 – Posted On Date (1 point):**
+This is a simple text addition to display the posting date and does not require any additional logic, so it is estimated at 1 point.
+
+**S6 – Search Labels (2 points):**
+This requires updating several search labels and placeholders and testing the changes to ensure everything works correctly. Because it involves multiple related updates, it is estimated at 2 points.
+
+**S7 – Job Detail "Apply Now" Button (1 point):**
+This involves adding a single "Apply Now" button with an email address or placeholder link. It is a straightforward change with no additional logic, so it is estimated at 1 point.
+
+**S8 – Footer Trust Links (1 point):**
+This involves adding two simple footer links, "About" and "Contact." Since it only requires a small HTML update without complex functionality, it is estimated at 1 point.
+
+### Total Story Points
+
+The total backlog estimate for all eight Stories is **11 points**:
+
+**1 + 1 + 2 + 2 + 1 + 2 + 1 + 1 = 11 Story Points.**
+
 
 ---
 
@@ -112,13 +143,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot7.png)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot8.png)
 
 ---
 
@@ -132,7 +163,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot9.png)
 
 ---
 
@@ -146,19 +177,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot10.png)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot11.png)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot12.png)
 
 ---
 
@@ -172,7 +203,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![Screenshot](screenshots/assignment4/Screenshot13.png)
 
 ---
 
@@ -186,15 +217,15 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/senyocouragekwaku_devops-micro-internship-dmi-sprint-planning-ugcPost-7491420536862838784-IOE4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4
 
-`Add your URL here`
+`https://www.linkedin.com/posts/senyocouragekwaku_devops-micro-internship-dmi-sprint-planning-ugcPost-7491420536862838784-IOE4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn3DX0BJj1PVBzmKTFriaizjpjw6GKyID4`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![LinkedIn](screenshots/assignment4/LinkedIn.png)
 
 ---
 
